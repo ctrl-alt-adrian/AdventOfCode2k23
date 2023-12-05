@@ -1,0 +1,8 @@
+# Recursively ignore all files named "input.txt"
+**/input.txt
+
+# Recursively ignore all files matching ".txt"
+**/*.txt
+
+# Ignore projectile files
+.projectile
